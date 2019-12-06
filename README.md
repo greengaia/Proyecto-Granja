@@ -1,2 +1,2 @@
 # Proyecto-Granja
-A smalla esperiment for my portafolio
+A smalla experiment for my portafolio
